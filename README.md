@@ -1,6 +1,8 @@
 # StyreneWM — AutoHotkey Tiling Window Manager
 
-StyreneWM_v2.0 is another version of StyreneWM but for AutoHotkey v2.0, to be mure updated and more features can be added
+StyreneWM is a lightweight tiling window manager for Windows, purely written in AutoHotkey (v2.0).
+It allows you to efficiently manage and tile your windows with keyboard shortcuts — inspired by popular Linux tiling WMs and tailored for Windows power users.
+
 ---
 
 ## Features
