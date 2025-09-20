@@ -38,17 +38,17 @@ git clone ImStyrene/StyreneWM_v2.0 <Desired Directory>
 
 ## Usage / Keybindings
 
-| Hotkey             | Action                                    |
-|--------------------|-------------------------------------------|
-| Win + Arrow Keys    | Snap windows to screen edges or halves    |
-| Win + Ctrl + Arrows | Resize window in steps (customizable)     |
-| Win + M            | Toggle Maximize/Restore with padding       |
-| Win + Q            | Close active window (with confirmation)    |
+| Hotkey             | Action                                      |
+|--------------------|---------------------------------------------|
+| Win + Arrow Keys    | Snap windows to screen edges or halves     |
+| Win + Ctrl + Arrows | Resize window in steps (customizable)      |
+| Win + M            | Toggle Maximize/Restore with padding        |
+| Win + Q            | Close active window (with confirmation)     |
 | Win + Z            | Toggle last active window                   |
-| Ctrl + Alt + [0-9] | Tag current window to number slot           |
+| Win + Alt + [0-9] | Tag current window to number slot           |
 | Win + Ctrl + [0-9] | Activate tagged window from slot            |
 | Win + P            | Toggle “Always on Top” (pin window)         |
-| Alt + Win + S       | Reload the script                            |
+| Alt + Win + S       | Reload the script                          |
 
 ---
 
@@ -64,4 +64,5 @@ SnapThreshold=15
 MaximizedPadding=5
 AutoMaximizeOnOpen=0
 ```
+
 
